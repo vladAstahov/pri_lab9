@@ -3,6 +3,8 @@
 
 using namespace std;
 
+// Программа является учебной
+
 int main()
 {
     int a, b;
