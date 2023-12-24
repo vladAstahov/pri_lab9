@@ -11,5 +11,7 @@ int main()
     cout << "Ender second number: ";
     cin >> b;
 
+    cout << a - b << endl;
+
     return 0;
 }
